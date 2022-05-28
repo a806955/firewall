@@ -1,6 +1,6 @@
 #!/bin/bash
-#801159, Gallardo Sánchez, Víctor, T, 1, B
-#806955, Franco Ramírez, Jan Carlos, T, 1, B
+#800616, Beltrán Pardos, Miguel, T, 1, A
+#806955, Franco Ramírez, Jan Carlos, T, 1, A
 if [ $EUID -ne 0 ];
 then 
 	echo -e "ERROR. PERMISO DENEGADO"
